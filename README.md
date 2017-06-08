@@ -2,7 +2,7 @@
 ---
 * maven 3.5
 * servlet3.1
-* git init 
+* git init  
 * git --version
 * git status
 * git add .
